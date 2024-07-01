@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "customTemplates": [
+    {
+      "name": "page-portfolio",
+      "postTypes": ["page"],
+      "title": "Portfolio page"
+    }
+  ],
+
+  "templateParts": [
+    {
+      "area": "uncategorized",
+      "name": "single-content",
+      "title": "Single Post"
+    },
+    {
+      "area": "header",
+      "name": "header",
+      "title": "Header"
+    },
+    {
+      "area": "footer",
+      "name": "footer",
+      "title": "Footer"
+    },
+    {
+      "area": "uncategorized",
+      "name": "comments",
+      "title": "Comments"
+    },
+    {
+      "area": "uncategorized",
+      "name": "single-header",
+      "title": "Header for Single page"
+    },
+    {
+      "area": "uncategorized",
+      "name": "post-meta",
+      "title": "Post Meta"
+    }
+  ]
+}

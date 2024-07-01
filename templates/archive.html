@@ -1,0 +1,19 @@
+<!-- wp:template-part {"slug":"header", "className":"site-header"} /-->
+
+<!-- wp:group {"className" : "site-content content-area"} -->
+<div id="primary" class="site-content content-area">
+    <!-- wp:group {"tagName":"main"} -->
+    <main id="main" class="site-main wp-block-group">
+        <header class="page-header">
+            <!-- wp:query-title {"type":"archive", "className": "page-title"} /-->
+            <!-- wp:query-description {"type":"archive", "className": "page-title"} /-->
+        </header>
+
+        <!-- wp:pattern {"slug":"aname/_loop"} /-->
+    </main>
+    <!-- /wp:group -->
+
+    <!-- wp:pattern {"slug":"aname/_sidebar"} /-->
+</div>
+<!-- /wp:group -->
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->

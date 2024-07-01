@@ -1,0 +1,268 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Alechko.name Full Site editor Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-30 17:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: aname"
+
+#: includes/legacy.php:121
+msgid " minute read"
+msgstr ""
+
+#: includes/legacy.php:123
+msgid " minutes read"
+msgstr ""
+
+#: patterns/_comments.php:45
+#, php-format
+msgid "%s thoughts"
+msgstr ""
+
+#: includes/cpt.php:27
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: includes/widgets.php:32
+msgid "Add widgets here."
+msgstr ""
+
+#. Description of the theme
+msgid "Alechko.name blog theme based on YAWP default template"
+msgstr ""
+
+#. Name of the theme
+msgid "Alechko.name Full Site editor Template"
+msgstr ""
+
+#. Author of the theme
+msgid "Alexander Yudaev"
+msgstr ""
+
+#: patterns/_single-meta.php:35
+msgid "By"
+msgstr ""
+
+#: patterns/_comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Portfolio page"
+msgstr ""
+
+#: includes/cpt.php:28
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://alechko.name"
+msgstr ""
+
+#: includes/form.php:68
+msgid "Message could not be sent..."
+msgstr ""
+
+#: includes/form.php:66
+msgid "Message sent successfully..."
+msgstr ""
+
+#: includes/cpt.php:29
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: includes/cpt.php:32
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: includes/cpt.php:33
+msgid "No Portfolio Entries found in Trash"
+msgstr ""
+
+#: patterns/_comments.php:42
+msgid "One thought"
+msgstr ""
+
+#: patterns/_loop.php:2
+msgctxt "Pattern description"
+msgid "Old loop list with customization"
+msgstr ""
+
+#: patterns/_sidebar.php:2 patterns/_portfolio.php:2
+msgctxt "Pattern description"
+msgid "The sidebar containing the main widget area"
+msgstr ""
+
+#: patterns/_comments.php:2
+msgctxt "Pattern description"
+msgid "The template for displaying comments"
+msgstr ""
+
+#: patterns/_comments.php:2
+msgctxt "Pattern title"
+msgid "Comments Page"
+msgstr ""
+
+#: patterns/header.php:2 patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Custom Header includes"
+msgstr ""
+
+#: patterns/component-newsletter.php:2
+msgctxt "Pattern title"
+msgid "Newsletter Form component"
+msgstr ""
+
+#: patterns/_loop.php:2
+msgctxt "Pattern title"
+msgid "Old Loop List"
+msgstr ""
+
+#: patterns/_portfolio.php:2
+msgctxt "Pattern title"
+msgid "Old Portfolio template"
+msgstr ""
+
+#: patterns/_sidebar.php:2
+msgctxt "Pattern title"
+msgid "Old Sidebar"
+msgstr ""
+
+#: patterns/recent-posts.php:2
+msgctxt "Pattern title"
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/component-form.php:2
+msgctxt "Pattern title"
+msgid "Single Form component"
+msgstr ""
+
+#: patterns/_single-thumbnail.php:2 patterns/_single-header.php:2
+msgctxt "Pattern title"
+msgid "Single Header page"
+msgstr ""
+
+#: patterns/_single.php:2
+msgctxt "Pattern title"
+msgid "Single php pattern"
+msgstr ""
+
+#: patterns/_single-meta.php:2
+msgctxt "Pattern title"
+msgid "Single Post Meta"
+msgstr ""
+
+#: patterns/_socials.php:2
+msgctxt "Pattern title"
+msgid "Socials Share"
+msgstr ""
+
+#: includes/cpt.php:26
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: includes/cpt.php:24
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/cpt.php:25
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/_single-header.php:37
+msgid "Post Views"
+msgstr ""
+
+#: patterns/header.php:43 includes/setup.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: patterns/_loop.php:46
+msgid "Read More"
+msgstr ""
+
+#: patterns/recent-posts.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/cpt.php:31
+msgid "Search Portfolio Entries"
+msgstr ""
+
+#: patterns/component-form.php:82
+msgid "Send"
+msgstr ""
+
+#: includes/widgets.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: includes/toc.php:74
+msgid "Table of Content"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header for Single page"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Single Post"
+msgstr ""
+
+#: includes/cpt.php:30
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: patterns/component-form.php:40
+msgid "Your Email"
+msgstr ""
+
+#: patterns/component-form.php:75 patterns/component-form.php:78
+msgid "Your Message"
+msgstr ""
+
+#: patterns/component-form.php:24 patterns/component-form.php:51
+msgid "Your Name"
+msgstr ""
+
+#: patterns/component-form.php:32
+msgid "Your Phone"
+msgstr ""
